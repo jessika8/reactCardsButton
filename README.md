@@ -1,10 +1,10 @@
 # reactCards
-Simple project that displays three cards with same information but when you press the button it will change the picture.
+A simple project that displays three cards with the same information but when you press the button it will change the picture.
 
 ## Motivation
-Learning how to use react. A simple introduction how to create a component and how to change the picture with a button click
+Learning how to use react. A simple introduction of how to create a component and how to change the picture with a button click
 
-## What have i achieved so far?
+## What have I achieved so far?
 * Three cards that display the same information
 * When clicking the button, it changes the picture
 
@@ -15,7 +15,6 @@ Learning how to use react. A simple introduction how to create a component and h
 * Create more cards
 * Add more information
 * Make it as a full-stack project (cards could display information from different APIs)
-
 
 ## Tech/framework used
 * React v16.11.0
