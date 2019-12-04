@@ -1,17 +1,14 @@
 # reactCards
-A simple project that displays three cards with the same information but when you press the button it will change the picture.
+A simple project that displays four cards with different information
 
 ## Motivation
-Learning how to use react. A simple introduction of how to create a component and how to change the picture with a button click
+I was learning how to work with react. A simple introduction of how to create a component and make it display different information
 
 ## What have I achieved so far?
-* Three cards that display the same information
-* When clicking the button, it changes the picture
+* Four cards are displaying different picture and information
 
 
 ## How can I make the project better?
-* Cards could display different information
-* When clicking the button, every card will have a different picture
 * Create more cards
 * Add more information
 * Make it as a full-stack project (cards could display information from different APIs)
@@ -23,7 +20,7 @@ Learning how to use react. A simple introduction of how to create a component an
 ## How to use? 
 1.run **npm start**
 
-2. It will open the http://localhost:3000/
+2. It opens the http://localhost:3000/
 
 ## Contribute
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
